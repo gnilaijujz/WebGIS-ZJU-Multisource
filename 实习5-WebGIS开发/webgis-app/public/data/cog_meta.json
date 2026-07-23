@@ -1,0 +1,32 @@
+{
+  "imageCount": 5,
+  "width": 5509,
+  "height": 1306,
+  "samplesPerPixel": 151,
+  "bbox": [
+    120.07632346069879,
+    30.30812072361756,
+    120.08226454572839,
+    30.30952915655433
+  ],
+  "origin": [
+    120.07632346069879,
+    30.30952915655433,
+    0
+  ],
+  "resolution": [
+    0.0000010784325702677049,
+    -0.0000010784325702677049,
+    0
+  ],
+  "tileWidth": 512,
+  "tileHeight": 512,
+  "geoKeys": null,
+  "epsg": null,
+  "modelPixelScale": null,
+  "modelTiepoint": null,
+  "modelTransformation": null,
+  "gdalNoData": null,
+  "bitsPerSample": null,
+  "sampleFormat": null
+}

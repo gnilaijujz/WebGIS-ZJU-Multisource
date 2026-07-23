@@ -1,0 +1,101 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs and caches
+dist/
+dist-ssr/
+build/
+coverage/
+.cache/
+.vite/
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+*.err
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+
+# Local secrets
+.env
+.env.local
+.env.*.local
+!.env.local.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Agent/local automation metadata
+.agents/
+.codex/
+**/.agents/
+**/.codex/
+
+# Visual Studio / compiled outputs
+.vs/
+x64/
+Debug/
+Release/
+*.pch
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+*.tlog
+*.lastbuildstate
+
+# Package-manager duplicate lockfile; pnpm-lock.yaml is authoritative here.
+package-lock.json
+
+# Original Word/PDF exports are replaced by Markdown reports in this repo.
+*.docx
+*.pdf
+
+# Large remote-sensing / reconstruction source data.
+*.bip
+*.bip.enp
+*.bsq
+*.bil
+*.dat
+*.hdr
+*.tif
+*.tiff
+*.las
+*.laz
+*.ply
+*.osgb
+*.obj
+
+# Large 3D Tiles and media.
+*.b3dm
+*.i3dm
+*.pnts
+*.cmpt
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Large generated/source data directories kept outside GitHub.
+遥感课程/
+实习1-无人机摄影测量/202602-成果数据/
+实习1-无人机摄影测量/3dgs/
+实习1-无人机摄影测量/2dgs/
+实习2-无人机高光谱影像/final/
+实习5-WebGIS开发/bip_cogtiff/
+实习5-WebGIS开发/zju_big-3dtiles/
+实习5-WebGIS开发/GIS_drone/
+
+# Keep only the GLB currently loaded by the WebGIS app.
+实习5-WebGIS开发/webgis-app/public/models/*.glb
+!实习5-WebGIS开发/webgis-app/public/models/mesh_2dgs_v8.glb
