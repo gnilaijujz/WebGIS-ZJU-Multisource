@@ -1,6 +1,6 @@
 # 实习五：WebGIS开发
 
-本目录是整个项目的 WebGIS 主入口，聚焦 3DGS、OSGB 和高光谱数据在 Cesium 场景中的加载、配准与联动展示。这里保留的是适合 GitHub 首页和文件夹页浏览的摘要。
+本目录是整个项目的 WebGIS 主入口，聚焦 3DGS、OSGB 和高光谱数据在 Cesium 场景中的加载、配准与联动展示。
 
 ![WebGIS 界面](实习五_media/image14.png)
 
