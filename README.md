@@ -130,6 +130,6 @@ Cesium 影像需要 Cesium Ion token。可以复制 `实习5-WebGIS开发/webgis
 
 ## GitHub 说明
 
-本项目包含 3D Tiles、COGTiff、GLB、视频等大文件。GitHub 仓库仅保留代码、Markdown 报告、截图和小型派生数据；完整原始数据、三维瓦片、高光谱 COGTiff 和演示视频通过外部完整数据包提供。
+本项目包含 3D Tiles、COGTiff、GLB、视频等大文件。GitHub 仓库保留代码、Markdown 报告、截图、小型派生数据和首页压缩演示视频；完整原始数据、三维瓦片、高光谱 COGTiff 和完整演示视频通过外部完整数据包提供。
 
-`WebGIS网站展示.mp4` 是本地演示视频，文件较大，不建议作为 README 首屏依赖。当前 README 使用报告中的 WebGIS 截图作为首页预览图。
+`WebGIS网站展示.mp4` 是本地完整演示视频，文件较大，不直接提交到 GitHub。当前 README 首页使用 [assets/webgis-demo.mp4](assets/webgis-demo.mp4) 作为压缩版预览。
