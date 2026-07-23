@@ -11,6 +11,7 @@ coverage/
 .vite/
 __pycache__/
 *.pyc
+.tmp-pip/
 
 # Logs
 logs/
@@ -85,6 +86,7 @@ package-lock.json
 *.mov
 *.avi
 *.mkv
+!assets/webgis-demo.mp4
 
 # Large generated/source data directories kept outside GitHub.
 遥感课程/

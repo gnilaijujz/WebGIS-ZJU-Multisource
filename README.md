@@ -2,6 +2,12 @@
 
 面向浙江大学紫金港校区局部研究区的综合 GIS 实践项目。项目把无人机摄影测量、无人机高光谱、ASD 地物光谱、RTK 外业测量和三维重建成果整理为一套可交互的 WebGIS 应用，在同一个 Cesium 三维场景中完成数据浏览、图层管理、模型配准、高光谱查询和多源成果对照。
 
+## 演示视频
+
+<video src="assets/webgis-demo.mp4" controls muted preload="metadata" width="100%"></video>
+
+[如果 GitHub 未直接显示播放器，请点击查看 WebGIS 演示视频。](assets/webgis-demo.mp4)
+
 ![WebGIS 主界面](实习5-WebGIS开发/实习五_media/image42.png)
 
 ## 项目重点
